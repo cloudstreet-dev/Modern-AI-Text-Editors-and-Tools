@@ -33,7 +33,7 @@ Found an update or correction? Please open an issue or submit a pull request.
 
 ## License
 
-This guide is provided under the MIT License. See [LICENSE](LICENSE) for details.
+This guide is provided under the CC0 1.0 Universal (Public Domain) License. See [LICENSE](LICENSE) for details.
 
 ---
 
